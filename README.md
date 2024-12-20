@@ -25,4 +25,3 @@ The app is a simple and interactive tool to:
 ## Acknowledgments
 This project is inspired by the **Scrimba** learning platform and serves as part of my practice in frontend development. 
 
----
